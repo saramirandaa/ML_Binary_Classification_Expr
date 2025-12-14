@@ -1,0 +1,15 @@
+# entornos virtuales
+env/
+.venv/
+venv/
+
+# python
+__pycache__/
+*.pyc
+
+# mac
+.DS_Store
+
+# data grande (opcional, recomendado)
+*.csv
+data/
